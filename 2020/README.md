@@ -11,7 +11,7 @@ System to Q&A: [https://piazza.com/class/k4rmacqhp136ae](https://piazza.com/clas
 
 ## Instructors:
 
-* Joseph Paul Cohen (Program Scientific Advisor)
+* [Joseph Paul Cohen](https://josephpcohen.com/) (Program Scientific Advisor)
 
 * Tariq Daouda
 
@@ -134,7 +134,7 @@ Challenges facing machine learning and deep learning techniques when applied to 
 
     * Deep Dream
 
-## Lecture 4: ****Deep Learning Models in Genomics
+## Lecture 4: Deep Learning Models in Genomics
 
 **(Ahmad Pesaranghader and Julie Hussin, February 14th  @ 15 h -18 h)**
 
@@ -164,15 +164,15 @@ In the first part of this lecture, we introduce the different DL architectures u
 
 * Discussion of interesting applications in the field mainly with respect to different omics data-types (current state-of-the-art and guideline for future work)
 
-**3. Tutorial (30 mins) **
+**3. Tutorial (30 mins)**
 
 * Quick Implementation of vanilla VAE/GAN in PyTorch (Google Colab)
 
 * GANs from the Paper: Generating and designing DNA with deep generative models ([https://arxiv.org/abs/1712.06148](https://arxiv.org/abs/1712.06148))
 
-**Lecture 5: Ethics**
+## Lecture 5: Ethics
 
-## (Sydney Swaine-Simon, February 21st   @ 15 h -18 h)
+**(Sydney Swaine-Simon, February 21st   @ 15 h -18 h)**
 
 In this lecture we will discuss the ethics associated with Genomics data and developing machine learning algorithms. 
 
