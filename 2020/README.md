@@ -1,14 +1,15 @@
-AI for Genomics 
+# AI for Genomics 2020
 
-**Course description:** 
+## Course description:
 
 Sponsored by the city of Montréal, with support from Mila – Quebec Artificial Intelligence Institute and IVADO (Institut de valorisation des données), the AI in Genomics program is a 12-week training that will allow participants to get hands-on experience in working with machine learning. The program will help to prepare participants with expertise in genomics to develop a foundational knowledge of advanced machine learning methodologies so that they can develop a better understanding of where and how these techniques could be used with genomics data.
 
-**Dates **
+Dates: 1/20/2020-4/13/2020
 
-1/20/2020-4/13/2020
+System to Q&A: [https://piazza.com/class/k4rmacqhp136ae](https://piazza.com/class/k4rmacqhp136ae)
 
-**Instructors:**
+
+## Instructors:
 
 * Joseph Paul Cohen (Program Scientific Advisor)
 
@@ -22,11 +23,8 @@ Sponsored by the city of Montréal, with support from Mila – Quebec Artificial
 
 * Sydney Swaine-Simon
 
-**System to Q&A:** [https://piazza.com/class/k4rmacqhp136ae](https://piazza.com/class/k4rmacqhp136ae)
 
-**Student enroll Code:** aigenomics101
-
-**Lecture 1: Onboarding and  Introduction to neural networks**
+## Lecture 1: Onboarding and  Introduction to neural networks
 
 **(Tariq Daouda, January 24th @ 15 h -18 h)**
 
@@ -56,7 +54,7 @@ Participants should get a basic understanding of neural networks and deep learni
 
 Example slides: [link](https://drive.google.com/file/d/1KCKd55MoAuhIX1_9Om1Ibt1iuXPj5WJB/view)
 
-**Lecture 2: Representation learning and backprop**
+## Lecture 2: Representation learning and backprop
 
 **(Joseph Paul Cohen, January 31st @ 15 h -18 h)**
 
@@ -94,7 +92,7 @@ Deep learning overview, representation learning methods in detail (sammons map, 
 
     * Regularization
 
-**Lecture 3: Challenges of Machine Learning for Transcriptomics **
+## Lecture 3: Challenges of Machine Learning for Transcriptomics
 
 **(Paul Bertin, February 7th @ 15 h -18 h)**
 
@@ -136,7 +134,7 @@ Challenges facing machine learning and deep learning techniques when applied to 
 
     * Deep Dream
 
-**Lecture 4: ****Deep Learning Models in Genomics**
+## Lecture 4: ****Deep Learning Models in Genomics
 
 **(Ahmad Pesaranghader and Julie Hussin, February 14th  @ 15 h -18 h)**
 
@@ -174,41 +172,12 @@ In the first part of this lecture, we introduce the different DL architectures u
 
 **Lecture 5: Ethics**
 
-**(Sydney Swaine-Simon, February 21st   @ 15 h -18 h)**
+## (Sydney Swaine-Simon, February 21st   @ 15 h -18 h)
 
 In this lecture we will discuss the ethics associated with Genomics data and developing machine learning algorithms. 
 
-More details will be announced soon
 
-**Office hours:**
-
-Office Hours #1: : March 6th @ 15 h -18 h
-
-Office Hours #2: : March 13th @ 15 h -18 h
-
-Office Hours #3: : March 20th @ 15 h -18 h Location: Centre for Teaching and Learning – FB 620
-
-Office Hours #4: : March 27th @ 15 h -18 h  
-
-Office Hours #5: : April 3rd @ 15 h -18 h  
-
-**Tutorials**
-
-    * Focus on gene expression data
-
-    * Load data and explore the dataset 
-
-    * Build a simple logistic regression model to predict the tissue
-
-        * Regularisation concept
-
-        * Produce diagnostic plot and assess overfitting
-
-* Build a more complex model
-
-* Provide a github repo which makes a nice "playground": extend the TCGA-benchmark project with graph loaders. People will be able to download the data and graphs easily with academictorrents
-
-# Some papers and additional resources : 
+## Some papers and additional resources: 
 
 * [https://github.com/gokceneraslan/awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio)
 
