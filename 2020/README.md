@@ -52,7 +52,9 @@ Participants should get a basic understanding of neural networks and deep learni
 
 * Practical: pyTorch feed forward: Fully connected & Conv
 
-Example slides: [link](https://drive.google.com/file/d/1KCKd55MoAuhIX1_9Om1Ibt1iuXPj5WJB/view)
+Slides (pdf): [link](slides/Week%201%20Slides.pdf)
+
+Slides: [link](https://drive.google.com/file/d/1KCKd55MoAuhIX1_9Om1Ibt1iuXPj5WJB/view)
 
 ## Lecture 2: Representation learning and backprop
 
@@ -62,7 +64,7 @@ Example slides: [link](https://drive.google.com/file/d/1KCKd55MoAuhIX1_9Om1Ibt1i
 
 Deep learning overview, representation learning methods in detail (sammons map, t-sne), the backprop algorithm in detail, and regularization and its impact on optimization.
 
-* (30min) What is deep learning overview ([Slides](https://docs.google.com/presentation/d/18iS4cwfkwhnslE2CzW_yOS0pjujIVY17ozzf2YIx5Dk/edit))
+* (30min) What is deep learning overview ([Slides](https://docs.google.com/presentation/d/18iS4cwfkwhnslE2CzW_yOS0pjujIVY17ozzf2YIx5Dk/edit), [Slides (pdf)](slides/Week%202%20slides%20Part%203.pdf))
 
     * Define supervised and self-supervised prob perspective
 
@@ -70,7 +72,7 @@ Deep learning overview, representation learning methods in detail (sammons map, 
 
     * Examples of go-to methods: logistic regression, decision tree etc (use sklearn)
 
-* (45min) Backprop in more detail ([Slides](https://docs.google.com/presentation/d/1eWu8TvanOLRQehlzzgqT1Bl--vabX16iXKRLZCEqIV0/edit))
+* (45min) Backprop in more detail ([Slides](https://docs.google.com/presentation/d/1eWu8TvanOLRQehlzzgqT1Bl--vabX16iXKRLZCEqIV0/edit), [Slides (pdf)](slides/Week%202%20Slides.pdf))
 
     * Work through an example of manually performing the algorithm
 
@@ -78,9 +80,7 @@ Deep learning overview, representation learning methods in detail (sammons map, 
 
     * Intuition for applying gradient updates for arbitrary functions
 
-* break
-
-* (1hr) Representation learning ([Slides](https://docs.google.com/presentation/d/1Z-7FmOmCXgEZdzojNXj8AZwfeb6SstGi0BJX5T9qzjY/edit))
+* (1hr) Representation learning ([Slides](https://docs.google.com/presentation/d/1Z-7FmOmCXgEZdzojNXj8AZwfeb6SstGi0BJX5T9qzjY/edit), [Slides (pdf)](slides/Week%202%20slides%20Part%202.pdf))
 
     * Non-linear dim reduction
 
