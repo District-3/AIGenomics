@@ -1,6 +1,6 @@
 # AI for Genomics 2020
 
-## Course description:
+## Course Description:
 
 Sponsored by the city of Montréal, with support from Mila – Quebec Artificial Intelligence Institute and IVADO (Institut de valorisation des données), the AI in Genomics program is a 12-week training that will allow participants to get hands-on experience in working with machine learning. The program will help to prepare participants with expertise in genomics to develop a foundational knowledge of advanced machine learning methodologies so that they can develop a better understanding of where and how these techniques could be used with genomics data.
 
